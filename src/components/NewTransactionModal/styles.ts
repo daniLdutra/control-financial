@@ -96,7 +96,8 @@ export const TransactionButton = styled(
 
   &[data-state='unchecked']:hover{
     transition: background-color 0.2s;
-    background: ${(props) => props.theme['gray-600']};
+    background: ${(props) => props.theme['gray-600']}
+  };
 
   &[data-state='checked']{
     color: ${(props) => props.theme.white};
