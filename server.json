@@ -1,0 +1,21 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+     "createdAt": "2022-09-27T17:25:42.787Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentção",
+      "price": 50,
+     "createdAt": "2022-09-27T17:15:42.787Z"
+    }
+
+  ]
+}
