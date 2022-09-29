@@ -15,6 +15,14 @@
       "category": "Alimentção",
       "price": 50,
      "createdAt": "2022-09-27T17:15:42.787Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso de Analista de Sistemas",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 300,
+     "createdAt": "2022-09-27T17:15:42.787Z"
     }
 
   ]
